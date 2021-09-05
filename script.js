@@ -24,14 +24,3 @@ const countdown = () => {
 }
 
 setInterval(countdown, 1000);
-
-// const playAudio = (audio) => {
-//     if(audio.paused){
-//         // audio.play();
-//         console.log(audio);
-//     }
-// }
-
-// window.addEventListener("DOMContentLoaded", function() {
-//     playAudio(audio);
-// });
