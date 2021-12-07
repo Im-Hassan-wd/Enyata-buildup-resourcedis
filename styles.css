@@ -39,7 +39,6 @@ body {
 
   .santa {
     width: 10%;
-    /* height: 50vh; */
     object-fit: cover;
   }
 }
