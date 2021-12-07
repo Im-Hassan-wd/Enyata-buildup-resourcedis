@@ -1,3 +1,5 @@
+//selecting dom elements
+const audio = document.querySelector("audio");
 const countdown = () => {
     const future = new Date('Dec 25, 2021 00:00:00').getTime();
     const now = new Date().getTime();
@@ -22,3 +24,14 @@ const countdown = () => {
 }
 
 setInterval(countdown, 1000);
+
+// const playAudio = (audio) => {
+//     if(audio.paused){
+//         // audio.play();
+//         console.log(audio);
+//     }
+// }
+
+// window.addEventListener("DOMContentLoaded", function() {
+//     playAudio(audio);
+// });

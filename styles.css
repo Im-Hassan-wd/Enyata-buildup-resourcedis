@@ -36,9 +36,10 @@ body {
   .launching h1 {
     font-size: 2rem;
   }
+}
 
+@media screen and (max-width: 440px) {
   .santa {
-    width: 10%;
-    object-fit: cover;
+    width: 100%;
   }
 }
