@@ -10,7 +10,6 @@ body {
 }
 
 .launching {
-  /* height: 100vh; */
   display: flex;
   justify-content: space-around;
   align-items: center;
@@ -23,8 +22,8 @@ body {
   padding: 20px 0;
 }
 
-.santa {
-  width: 35%;
+.logo {
+  width: 100%;
 }
 
 .countdown {
