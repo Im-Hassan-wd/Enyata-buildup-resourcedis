@@ -2,6 +2,6 @@
 
 A javascript countdown app to 12am on specific events. 
 
-###DEMO 
+### DEMO
 
 https://weirdcountdown.netlify.app
