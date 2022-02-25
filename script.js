@@ -1,7 +1,7 @@
 //selecting dom elements
 const audio = document.querySelector("audio");
 const countdown = () => {
-    const future = new Date('Feb 24, 2022 00:00:00').getTime();
+    const future = new Date('Feb 28, 2022 00:00:00').getTime();
     const now = new Date().getTime();
     const gap = future - now;
 
